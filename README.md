@@ -1,2 +1,2 @@
-# Google-Sheets-add-on-Lyne.ai-
-A google sheets add on that formats lead sheets
+# Google-Sheets-add-on-Lyne.ai
+A google sheets add on that formats lead sheets using Google Apps Script
